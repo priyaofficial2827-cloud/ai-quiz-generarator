@@ -1,0 +1,9 @@
+pkg-resorces
+-u google-generativeai pyPDF2
+streamlit run app.py
+streamlit
+streamlit pyPDF2 google-generativeai
+spacy
+transformer
+torch
+nltk
